@@ -6,3 +6,4 @@ Price_History/* linguist-vendored
 sentiments/* linguist-vendored
 build/* linguist-vendored
 .idea/* linguist-vendored
+__pycache__/* linguist-vendored
