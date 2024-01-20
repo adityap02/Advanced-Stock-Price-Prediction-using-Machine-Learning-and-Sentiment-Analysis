@@ -3,3 +3,4 @@
 *.h5 linguist-detectable=false
 models/* linguist-vendored
 Price_History/* linguist-vendored
+sentiments/* linguist-vendored
