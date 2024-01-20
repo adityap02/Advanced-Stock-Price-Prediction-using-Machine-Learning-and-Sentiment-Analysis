@@ -4,3 +4,5 @@
 models/* linguist-vendored
 Price_History/* linguist-vendored
 sentiments/* linguist-vendored
+build/* linguist-vendored
+.idea/* linguist-vendored
