@@ -1,3 +1,4 @@
 *.html linguist-detectable=false
 *.csv linguist-detectable=false
 *.h5 linguist-detectable=false
+*.csv linguist-vendored
