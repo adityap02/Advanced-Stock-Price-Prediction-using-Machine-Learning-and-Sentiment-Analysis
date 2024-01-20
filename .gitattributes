@@ -1,9 +1,9 @@
 *.html linguist-detectable=false
 *.csv linguist-detectable=false
 *.h5 linguist-detectable=false
-models/* linguist-vendored
-Price_History/* linguist-vendored
-sentiments/* linguist-vendored
-build/* linguist-vendored
-.idea/* linguist-vendored
-__pycache__/* linguist-vendored
+models/** linguist-vendored
+Price_History/** linguist-vendored
+sentiments/** linguist-vendored
+build/** linguist-vendored
+.idea/** linguist-vendored
+__pycache__/** linguist-vendored
