@@ -7,3 +7,5 @@ sentiments/** linguist-vendored
 build/** linguist-vendored
 .idea/** linguist-vendored
 __pycache__/** linguist-vendored
+__pycache__/** linguist-vendored
+textblob_analysis.py linguist-vendored
